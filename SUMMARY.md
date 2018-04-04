@@ -12,7 +12,6 @@
     * [Pipeline Triggers](automation-pipelines/pipeline-configuration/pipeline-triggers.md)
     * Pipeline Stages
     * Pipline Steps
-  * [Example Pipelines](automation-pipelines/example-pipelines.md)
 * Syncing and Uploads
 * Manage Account
 
