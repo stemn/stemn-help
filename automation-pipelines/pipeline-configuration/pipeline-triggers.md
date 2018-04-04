@@ -1,7 +1,3 @@
----
-description: These will control when your pipeline runs
----
-
 # Pipeline Triggers
 
 ## How to use triggers
@@ -23,6 +19,11 @@ triggers:
   type: commit
 ...
 ```
+
+This config contains 2 triggers. The pipeline will run if either of the 2 conditions are met:
+
+* There is a revision to any `stl `file in the same folder as the `.pipeline` file
+* There is a commit to the `documentation.txt` file
 
 More specifically, the supported options are:
 
