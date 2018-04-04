@@ -7,5 +7,4 @@
 * Stemn Desktop
 * Syncing and Uploads
 * Manage Account
-* Untitled
 
