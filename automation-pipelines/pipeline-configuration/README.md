@@ -22,7 +22,7 @@ If you understand these 3 concepts, you're ready to write your first pipeline co
 
 ## Example Pipeline Configuration
 
-For example. Add the following to your project and save it as `stemn.pipeline`
+For example. Add the following configuration to your project and save to a file called `stemn.pipeline`
 
 ```yaml
 $schema: https://schemas.stemn.com/pipeline+v1
