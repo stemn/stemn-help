@@ -1,8 +1,4 @@
----
-description: What is a *.pipeline file and how do I use it?
----
-
-# Pipeline configuration
+# Pipeline Triggers
 
 ## Getting Super Powers
 

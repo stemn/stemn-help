@@ -7,7 +7,11 @@
 * Stemn Desktop
 * File Previews
 * Automation Pipelines
-  * [Pipeline configuration](automation-pipelines/pipeline-configuration.md)
+  * What can pipelines do?
+  * [Pipeline configuration](automation-pipelines/pipeline-configuration/README.md)
+    * [Pipeline Triggers](automation-pipelines/pipeline-configuration/pipeline-triggers.md)
+    * Pipeline Stages
+    * Pipline Steps
   * Example Pipelines
 * Syncing and Uploads
 * Manage Account
