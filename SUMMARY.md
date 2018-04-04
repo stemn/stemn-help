@@ -1,7 +1,7 @@
 # Table of contents
 
 * [Initial page](README.md)
-* Intro to Stemn
+* [Intro to Stemn](intro-to-stemn/README.md)
   * Overview
   * Initial Setup
 * Stemn Desktop
