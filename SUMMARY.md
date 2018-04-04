@@ -7,6 +7,8 @@
 * Stemn Desktop
 * File Previews
 * Automation Pipelines
+  * [Pipeline configuration](automation-pipelines/pipeline-configuration.md)
+  * Example Pipelines
 * Syncing and Uploads
 * Manage Account
 
