@@ -28,7 +28,7 @@ More specifically, the supported options are:
 
 | **Key** | **Description** |
 | --- | --- | --- |
-| files | Wildcard selector. eg\) `*.txt` or  `wheel_hub.stl` |
+| files | Wildcard selector. eg\) `*.txt` or  `wheel_hub.stl`or `docs/summary.docx` |
 | type | Event type. eg\) `commit `or `revision` |
 
 {% hint style="info" %}
