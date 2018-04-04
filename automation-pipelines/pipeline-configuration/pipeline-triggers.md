@@ -12,32 +12,30 @@ You may also want to trigger your Pipeline to run according to a cron schedule. 
 
 ## How to define triggers
 
-The triggers section contains a list of `file` and `type` triggers. The full JSON schema with all possibilities is available [here](http://schemas.stemn.com/pipeline/triggers+v1).
+The triggers section contains a list of `file` and `type` triggers. For example:
 
-```text
+```yaml
+...
 triggers:
 - files: *.stl
   type: revision
 - files: documentation.txt
   type: commit
+...
 ```
 
-Becoming a super hero is a fairly straight forward process:
+More specifically, the supported options are:
 
-```
-$ give me super-powers
-```
+| **Key** | **Description** |
+| --- | --- | --- |
+| files | Wildcard selector. eg\) `*.txt` or  `wheel_hub.stl` |
+| type | Event type. eg\) `commit `or `revision` |
 
 {% hint style="info" %}
- Super-powers are granted randomly so please submit an issue if you're not happy with yours.
+The full schema with all possibilities is available at [schemas.stemn.com/pipline/triggers+v1](http://schemas.stemn.com/pipeline/triggers+v1)
 {% endhint %}
 
-Once you're strong enough, save the world:
 
-```
-// Ain't no code for that yet, sorry
-echo 'You got to trust me on this, I saved the world'
-```
 
 
 
