@@ -13,7 +13,6 @@
     * Code
     * Images
     * Documents
-  * Syncing and Uploads
   * Cloud Providers
 * Automation Pipelines
   * What can pipelines do?
