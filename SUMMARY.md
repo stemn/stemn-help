@@ -3,8 +3,13 @@
 * [Initial page](README.md)
 * [Intro to Stemn](intro-to-stemn/README.md)
   * Overview
+  * Open Source
+  * Pricing
+* Bootcamp
   * Initial Setup
-  * Stemn Desktop
+  * The Stemn Workflow
+  * Create a Pipeline
+  * Be Social
 * Files
   * Revisions
   * Commits
