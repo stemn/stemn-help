@@ -5,6 +5,7 @@
   * Overview
   * Initial Setup
 * Stemn Desktop
+* Threads and Task Tracking
 * File Previews
 * Automation Pipelines
   * What can pipelines do?
