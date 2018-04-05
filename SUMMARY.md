@@ -4,12 +4,13 @@
 * [Intro to Stemn](intro-to-stemn/README.md)
   * Overview
   * Initial Setup
-* Stemn Desktop
+  * Stemn Desktop
 * Files
-  * Revisions & Commits
+  * Revisions
+  * Commits
   * Previews
   * Syncing and Uploads
-    * Cloud Providers
+  * Cloud Providers
 * Automation Pipelines
   * What can pipelines do?
   * [Pipeline configuration](automation-pipelines/pipeline-configuration/README.md)
