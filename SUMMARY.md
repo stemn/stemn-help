@@ -24,5 +24,6 @@
   * Advanced Examples
 * Task Tracking
 * Activity Feed
+* Exploring Projcts
 * Manage Account
 
