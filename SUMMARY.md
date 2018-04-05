@@ -5,7 +5,7 @@
   * Overview
   * Open Source
   * Pricing
-* Bootcamp
+* Stemn Bootcamp
   * Initial Setup
   * The Stemn Workflow
   * Create a Pipeline
