@@ -9,6 +9,10 @@
   * Revisions
   * Commits
   * Previews
+    * Cad
+    * Code
+    * Images
+    * Documents
   * Syncing and Uploads
   * Cloud Providers
 * Automation Pipelines
