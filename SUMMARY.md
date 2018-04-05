@@ -1,6 +1,6 @@
 # Table of contents
 
-* [Initial page](README.md)
+* [Stemn Help Center](README.md)
 * [Intro to Stemn](intro-to-stemn/README.md)
   * Overview
   * Open Source

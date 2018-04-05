@@ -1,10 +1,18 @@
-# Initial page
+# Stemn Help Center
 
-## Can I become who I want to be?
+## Our mission.
 
-That's a tough question but thankfully, our team is on it. Please bear with us while we're investigating.
 
-## Have you had a chance to answer the previous question?
 
-Yes, after a few months we finally found the answer. Sadly, Mike is on vacations right now so I'm afraid we are not able to provide the answer at this point.
+## Are you new here?
+
+Not quite sure what Stemn does or how to use it? Check out the introduction and bootcamp to get up to speed.
+
+{% page-ref page="intro-to-stemn/" %}
+
+{% page-ref page="bootcamp/" %}
+
+## Not so new?
+
+We know, there are quite a lot of features and it's not always obvious what they do or how to use them to their full potential.
 
