@@ -28,6 +28,6 @@
   * Advanced Examples
 * Task Tracking
 * Activity Feed
-* Exploring Projcts
+* Exploring Projects
 * Manage Account
 
