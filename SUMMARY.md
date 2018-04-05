@@ -5,8 +5,11 @@
   * Overview
   * Initial Setup
 * Stemn Desktop
-* Threads and Task Tracking
-* File Previews
+* Files
+  * Revisions & Commits
+  * Previews
+  * Syncing and Uploads
+    * Cloud Providers
 * Automation Pipelines
   * What can pipelines do?
   * [Pipeline configuration](automation-pipelines/pipeline-configuration/README.md)
@@ -14,6 +17,7 @@
     * [Pipeline Stages](automation-pipelines/pipeline-configuration/pipeline-stages.md)
     * [Pipline Steps](automation-pipelines/pipeline-configuration/pipline-steps.md)
   * Advanced Examples
-* Syncing and Uploads
+* Task Tracking
+* Activity Feed
 * Manage Account
 
