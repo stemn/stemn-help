@@ -2,7 +2,7 @@
 
 ## How to use triggers
 
-Your Automation Pipeline will only run when the conditions defined by your triggers are met. Typically, you'll want to trigger your pipeline when there are either revisions or commits made a specific file \(or files of a special file type\). This sort of logic is easily achieved with triggers.
+Your Automation Pipeline will only run when the conditions defined by your triggers are met. Typically, you'll want to trigger your pipeline when there are either [revisions ](../../untitled/file-revisions-and-commits.md)or [commits ](../../untitled/commits.md)made to a specific file or file type. This type of logic is easily achieved with triggers.
 
 You may also want to trigger your Pipeline to run according to a cron schedule. For example, every day at 5pm. This functionality is not yet supported \(but it is planned\).
 
