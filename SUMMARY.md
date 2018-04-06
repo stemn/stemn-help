@@ -14,7 +14,7 @@
   * [Revisions](untitled/file-revisions-and-commits.md)
   * [Commits](untitled/commits.md)
   * Previews
-    * Cad
+    * [Cad](untitled/file-previews/cad.md)
     * Code
     * Images
     * Documents
