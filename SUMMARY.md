@@ -12,7 +12,7 @@
   * Be Social
 * Files
   * [Revisions](untitled/file-revisions-and-commits.md)
-  * Commits
+  * [Commits](untitled/commits.md)
   * Previews
     * Cad
     * Code
