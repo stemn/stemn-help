@@ -6,9 +6,10 @@ a
 
 aasfasf
 
-| Geneic | .stl |
-| --- | --- | --- | --- | --- | --- |
-|  Solidworks |  .sldprt .sldassm |
+| **Program** | **Extensions** |
+| --- | --- | --- | --- | --- | --- | --- |
+| Generic | .stl |
+| Solidworks | .sldprt .sldassm |
 | Catia |  |
 | AutoCAD | .dxf .dwg |
 |  Onshape |  |
