@@ -2,6 +2,10 @@
 
 a
 
+## Diff Support
+
+asfasf
+
 ## Supported Formats
 
 The following file types can be rendered and diffed in Stemn:
