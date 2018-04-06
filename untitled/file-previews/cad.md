@@ -4,7 +4,7 @@ a
 
 ## Supported Formats
 
-aasfasf
+The following file types can be rendered and diffed in Stemn:
 
 | **Program** | **Extensions** |
 | --- | --- | --- | --- | --- | --- | --- |
