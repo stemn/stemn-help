@@ -19,7 +19,7 @@
     * Images
     * Documents
   * Cloud Providers
-* Automation Pipelines
+* [Automation Pipelines](automation-pipelines/README.md)
   * [Pipeline configuration](automation-pipelines/configuration/README.md)
     * [Triggers](automation-pipelines/configuration/triggers.md)
     * [Stages](automation-pipelines/configuration/stages.md)
