@@ -1,9 +1,5 @@
 # Pipeline Step Command
 
-## a
-
-a
-
 ## Usage
 
 Commands can be entered as either an array of sequential commands or a single line. 
