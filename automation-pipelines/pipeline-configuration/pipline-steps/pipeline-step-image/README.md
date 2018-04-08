@@ -20,7 +20,8 @@ stages:
 - label: An example stage
   steps:
   - label: An example step
-    image: stemn/upload # <--- url or name
+    image: wernight/funbox # <--- url or name
+    command: asciiquarium
 ...
 ```
 
