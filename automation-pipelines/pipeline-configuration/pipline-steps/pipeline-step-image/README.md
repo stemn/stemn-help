@@ -1,14 +1,12 @@
 # Pipeline Step Image
 
-## What exactly is a step image?
+## Wait... What do you mean 'image'?
 
-A step image is another name for a docker image.
-
-
+When we say 'image' we are referring to a [docker image](https://docs.docker.com/glossary/?term=image). Think of this a snapshot of an operating system with various programs installed and configured to run a specific task. 
 
 ## Step Images
 
-There are 3 types of step images. Many simple tasks can be achieved using a Stemn or 3rd party image. Browse these first. If you can't find what you are looking for, you should read about creating your own [custom step image](custom-steps.md) \(you'll need to write some code for this\).
+There are 3 types of step images. Most simple tasks can be achieved using a Stemn or 3rd party image from dockerhub. Browse these first. If you can't find what you are looking for, you should read about creating your own [custom step image](custom-steps.md) \(you'll need to write some code and learn more about docker images for this\).
 
 {% page-ref page="stemn-steps.md" %}
 

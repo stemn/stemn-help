@@ -27,7 +27,9 @@ You can actually achieve almost anything in a step. Some of these will be just a
 
 ## How it works
 
-All pipeline steps are executed in the cloud on Stemn's automation pipeline servers. Each step actually spins up a Virtual Machine which runs some code along with any command you define in your step configuration. We provide several different VM 'images' that can be used to do common tasks with just 1 or 2 lines of configuration. You can also deploy your own [custom code](pipeline-step-image/custom-steps.md) as a docker image and run that as part of your pipeline. We'll get into the details of this later on.
+All pipeline steps are executed in the cloud on Stemn's automation pipeline servers. Each step actually spins up a Virtual Machine \(VM\) which runs some code along with any command you define in your step configuration. 
+
+There are thousands of different VM 'images' that can be used to do common tasks with just 1 or 2 lines of configuration. You can also deploy your own [custom code](pipeline-step-image/custom-steps.md) as an 'image' \(using the website [hub.docker.com](https://hub.docker.com)\) and run that as part of your pipeline. We'll get into the details of this later on...
 
 ## How to define steps
 
