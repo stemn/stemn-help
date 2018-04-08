@@ -50,7 +50,7 @@ More specifically, the supported options are:
 | **Key** | **Description** |
 | --- | --- | --- | --- | --- |
 | label | A string describing the stage |
-| image | The name of step image \(or path to a private image\) |
+| image | The name of step image **Learn more below** |
 | command \(optional\) | The command to run when the docker image boots |
 | inputFiles \(optional\) | A wildcard selector for the files in your project you want to operate on |
 
