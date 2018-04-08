@@ -20,16 +20,15 @@
     * Documents
   * Cloud Providers
 * Automation Pipelines
-  * What can pipelines do?
-  * [Pipeline configuration](automation-pipelines/pipeline-configuration/README.md)
-    * [Triggers](automation-pipelines/pipeline-configuration/pipeline-triggers.md)
-    * [Stages](automation-pipelines/pipeline-configuration/pipeline-stages.md)
-    * [Steps](automation-pipelines/pipeline-configuration/pipline-steps/README.md)
-      * [Images](automation-pipelines/pipeline-configuration/pipline-steps/pipeline-step-image/README.md)
-        * [Stemn Images](automation-pipelines/pipeline-configuration/pipline-steps/pipeline-step-image/stemn-steps.md)
-        * [3rd Party Images](automation-pipelines/pipeline-configuration/pipline-steps/pipeline-step-image/3rd-party-steps.md)
-        * [Custom Images](automation-pipelines/pipeline-configuration/pipline-steps/pipeline-step-image/custom-steps.md)
-    * [Command](automation-pipelines/pipeline-configuration/pipeline-step-command.md)
+  * [Pipeline configuration](automation-pipelines/configuration/README.md)
+    * [Triggers](automation-pipelines/configuration/triggers.md)
+    * [Stages](automation-pipelines/configuration/stages.md)
+    * [Steps](automation-pipelines/configuration/steps/README.md)
+      * [Images](automation-pipelines/configuration/steps/images/README.md)
+        * [Stemn Images](automation-pipelines/configuration/steps/images/stemn.md)
+        * [3rd Party Images](automation-pipelines/configuration/steps/images/3rd-party.md)
+        * [Custom Images](automation-pipelines/configuration/steps/images/custom.md)
+    * [Command](automation-pipelines/configuration/commands.md)
   * [Example Pipelines](automation-pipelines/advanced-examples.md)
 * Task Tracking
 * Activity Feed

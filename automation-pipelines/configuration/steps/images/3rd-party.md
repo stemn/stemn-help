@@ -1,6 +1,6 @@
 # 3rd Party Images
 
-These are custom images created and open-sourced by members of the Stemn or Docker community. If you have created your own [custom image](custom-steps.md) and want to share it with others. Contact us and we'll list it here.
+These are custom images created and open-sourced by members of the Stemn or Docker community. If you have created your own [custom image](custom.md) and want to share it with others. Contact us and we'll list it here.
 
 In addition to the images below, there are thousands of other images list on [Docker Hub](https://hub.docker.com/). 
 
@@ -14,7 +14,7 @@ In addition to the images below, there are thousands of other images list on [Do
 | [node](https://hub.docker.com/_/node/) | Node | Lang |
 
 {% hint style="info" %}
-Click on the image names above to learn how to configure them with custom [commands](../../pipeline-step-command.md).
+Click on the image names above to learn how to configure them with custom [commands](../../commands.md).
 {% endhint %}
 
 {% hint style="danger" %}
@@ -23,9 +23,9 @@ When using 3rd party images, you are ultimately running someone else's code agai
 
 ## Other Images
 
-{% page-ref page="stemn-steps.md" %}
+{% page-ref page="stemn.md" %}
 
-{% page-ref page="custom-steps.md" %}
+{% page-ref page="custom.md" %}
 
 
 

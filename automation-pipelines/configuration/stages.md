@@ -2,7 +2,7 @@
 
 ## How to use stages
 
-Stages are simply a group of pipeline [steps](pipline-steps/). All the steps in a stage execute at the same time whereas all the stages in a pipeline execute sequentially.
+Stages are simply a group of pipeline [steps](steps/). All the steps in a stage execute at the same time whereas all the stages in a pipeline execute sequentially.
 
 Take this 3 stage pipeline as an example:
 
@@ -12,7 +12,7 @@ Reading the stage and step labels it becomes pretty clear what is going on. By p
 
 ## How to define stages
 
-Stages will execute in the order you define in your `.pipeline` file. All they contain a list of `steps` and `label`. Simple right? Defining the [steps ](pipline-steps/)is where things start to get a little complicated.
+Stages will execute in the order you define in your `.pipeline` file. All they contain a list of `steps` and `label`. Simple right? Defining the [steps ](steps/)is where things start to get a little complicated.
 
 ```yaml
 ...
@@ -35,7 +35,7 @@ More specifically, the supported options are:
 | **Key** | **Description** |
 | --- | --- | --- |
 | label | A string describing the stage |
-| steps | An array of [steps](pipline-steps/) |
+| steps | An array of [steps](steps/) |
 
 {% hint style="info" %}
 The full schema with all possibilities is available at [schemas.stemn.com/pipline/stages+v1](http://schemas.stemn.com/pipeline/stages+v1)

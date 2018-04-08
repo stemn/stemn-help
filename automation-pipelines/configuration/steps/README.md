@@ -2,7 +2,7 @@
 
 ## How to use steps
 
-This is where the real meat \(or tofu\) of your pipeline config starts. Remember the image of a pipeline from the [stages ](../pipeline-stages.md)page? Each stage contains steps such as `Convert .sldprt to .stl` or `Email changes.pdf`. 
+This is where the real meat \(or tofu\) of your pipeline config starts. Remember the image of a pipeline from the [stages ](../stages.md)page? Each stage contains steps such as `Convert .sldprt to .stl` or `Email changes.pdf`. 
 
 ![](../../../.gitbook/assets/steps-stages%20%281%29.png)
 
@@ -29,7 +29,7 @@ You can actually achieve almost anything in a step. Some of these will be just a
 
 All pipeline steps are executed in the cloud on Stemn's automation pipeline servers. Each step actually spins up a Virtual Machine \(VM\) which runs some code along with any command you define in your step configuration. 
 
-There are thousands of different VM 'images' that can be used to do common tasks with just 1 or 2 lines of configuration. You can also deploy your own [custom code](pipeline-step-image/custom-steps.md) as an 'image' \(using the website [hub.docker.com](https://hub.docker.com)\) and run that as part of your pipeline. We'll get into the details of this later on...
+There are thousands of different VM 'images' that can be used to do common tasks with just 1 or 2 lines of configuration. You can also deploy your own [custom code](images/custom.md) as an 'image' \(using the website [hub.docker.com](https://hub.docker.com)\) and run that as part of your pipeline. We'll get into the details of this later on...
 
 ## How to define steps
 
@@ -52,15 +52,15 @@ More specifically, the supported options are:
 | **Key** | **Description** |
 | --- | --- | --- | --- | --- |
 | label | A string describing the stage. |
-| image | The name of or url to a step image. [Learn more.](pipeline-step-image/) |
-| command \(optional\) | The command to run in the terminal after the image boots. [Learn more.](../pipeline-step-command.md) |
+| image | The name of or url to a step image. [Learn more.](images/) |
+| command \(optional\) | The command to run in the terminal after the image boots. [Learn more.](../commands.md) |
 | inputFiles \(optional\) | A wildcard selector for the files in your project you want to operate on. |
 
 ## Further Reading
 
-{% page-ref page="pipeline-step-image/" %}
+{% page-ref page="images/" %}
 
-{% page-ref page="../pipeline-step-command.md" %}
+{% page-ref page="../commands.md" %}
 
 
 

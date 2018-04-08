@@ -6,15 +6,15 @@ When we say 'image' we are referring to a [docker image](https://docs.docker.com
 
 ## Step Images
 
-There are 3 types of step images. Most simple tasks can be achieved using an image provided by us or a 3rd party images from dockerhub. Browse these first. If you can't find what you are looking for, you should read about creating your own [custom step image](custom-steps.md) \(you'll need to write some code and learn more about docker images for this\).
+There are 3 types of step images. Most simple tasks can be achieved using an image provided by us or a 3rd party images from dockerhub. Browse these first. If you can't find what you are looking for, you should read about creating your own [custom step image](custom.md) \(you'll need to write some code and learn more about docker images for this\).
 
 ### Browse images:
 
-{% page-ref page="stemn-steps.md" %}
+{% page-ref page="stemn.md" %}
 
-{% page-ref page="3rd-party-steps.md" %}
+{% page-ref page="3rd-party.md" %}
 
-{% page-ref page="custom-steps.md" %}
+{% page-ref page="custom.md" %}
 
 ## Usage
 
