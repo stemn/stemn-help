@@ -1,4 +1,4 @@
-# Images
+# Step Images
 
 ## Wait... What do you mean 'image'?
 

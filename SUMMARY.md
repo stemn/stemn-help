@@ -24,7 +24,7 @@
     * [Triggers](automation-pipelines/configuration/triggers.md)
     * [Stages](automation-pipelines/configuration/stages.md)
     * [Steps](automation-pipelines/configuration/steps/README.md)
-      * [Images](automation-pipelines/configuration/steps/images/README.md)
+      * [Step Images](automation-pipelines/configuration/steps/images/README.md)
         * [Stemn Images](automation-pipelines/configuration/steps/images/stemn.md)
         * [3rd Party Images](automation-pipelines/configuration/steps/images/3rd-party.md)
         * [Custom Images](automation-pipelines/configuration/steps/images/custom.md)
