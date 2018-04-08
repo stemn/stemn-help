@@ -27,19 +27,30 @@ Or even more complicated things such as:
 
 ## How to define steps
 
-a
+Each step should contains a `label`, `image`and optionally a `command` and/or `inputFiles`. For example, to create the steps in **Stage 2** of the above example: 
 
 ```yaml
-stages:
-- label: Build CAD Files
-  steps:
-  - label: Convert .sldprt to .stl
-    inputFiles: *.sldprt
-    image: stemn/cad-convert
-    command: convert -i *.sldprt -o *.stl
+steps:
+- label: Render .stl as .jpg
+  inputFiles: *.stl
+  image: stemn/cad-render
+  command: convert -i *.sldstl -o output/*.jpg
+- label: Generate changes.pdf
+  inputFiles: *
+  image: custom-docker/custom-docker-image
+  command: generate report.pdf
 ```
 
-## Examples
+More specifically, the supported options are:
+
+| **Key** | **Description** |
+| --- | --- | --- | --- | --- |
+| label | A string describing the stage |
+| image | The name of a [public docker image](https://hub.docker.com) \(or path to a private image\) |
+| command \(optional\) | The command to run when the docker image boots |
+|  inputFiles \(optional\) | A wildcard selector for the files in your project you want to operate on |
+
+Now, chances are you don't know what a docker image is. We'll get to that now.
 
 
 
