@@ -10,7 +10,7 @@ These are custom images created and open-sourced by members of the Stemn communi
 
 ## Other Images
 
-{% page-ref page="./" %}
+{% page-ref page="stemn-steps.md" %}
 
 {% page-ref page="custom-steps.md" %}
 
