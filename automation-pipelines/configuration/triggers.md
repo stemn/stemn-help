@@ -29,7 +29,7 @@ More specifically, the supported options are:
 
 | **Key** | **Description** |
 | --- | --- | --- |
-| files | Wildcard selector. eg\) `*.txt` or  `wheel_hub.stl`or `docs/summary.docx` |
+| files | File selector.  Full [glob matching](https://github.com/isaacs/minimatch) support. Let the internet be your guide |
 | type | Event type. eg\) `commit `or `revision` |
 
 {% hint style="info" %}
