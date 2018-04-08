@@ -24,7 +24,10 @@
   * [Pipeline configuration](automation-pipelines/pipeline-configuration/README.md)
     * [Pipeline Triggers](automation-pipelines/pipeline-configuration/pipeline-triggers.md)
     * [Pipeline Stages](automation-pipelines/pipeline-configuration/pipeline-stages.md)
-    * [Pipline Steps](automation-pipelines/pipeline-configuration/pipline-steps.md)
+    * [Pipline Steps](automation-pipelines/pipeline-configuration/pipline-steps/README.md)
+      * Stemn Steps
+      * 3rd Party Steps
+      * Custom Steps
   * Advanced Examples
 * Task Tracking
 * Activity Feed
