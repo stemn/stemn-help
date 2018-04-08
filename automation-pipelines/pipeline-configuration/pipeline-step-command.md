@@ -40,7 +40,9 @@ stages:
 These 2 examples are using the [wernight/funbox](https://hub.docker.com/r/wernight/funbox/) image from docker hub. You can run these in your pipline and you should get some pretty ascii art in your pipeline's terminal output. Note, these commands are documented on the docker hub page above.
 {% endhint %}
 
-You can use standard linux commands along with a linux image such as [alpine](https://hub.docker.com/_/alpine/):
+### Scripting
+
+You can also use standard linux commands along with a linux image such as [alpine](https://hub.docker.com/_/alpine/):
 
 ```yaml
 ...
@@ -55,4 +57,21 @@ stages:
       - curl 'http://stemn.com/api/v1/version' -H --compressed
 ...
 ```
+
+Or, you can also install packages and run script files.
+
+```yaml
+...
+stages:
+- label: Example Stage
+  steps:
+  - label: Example Step
+    image: python # Note, this is a python image from dockerhub
+    command: 
+      - pip install --no-cache-dir -r requirements.txt
+      - python some-program.py
+...
+```
+
+
 
