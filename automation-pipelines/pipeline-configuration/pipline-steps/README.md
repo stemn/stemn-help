@@ -23,9 +23,11 @@ Or even more complicated things such as:
 * Diff some files and add it to a changelog report
 * Produce a Gerber file and email it to a PCB manufacturer 
 
- You can actually achieve almost anything in a step. Some of these will be just a couple lines of configuration, others will need you to write some custom code.
+You can actually achieve almost anything in a step. Some of these will be just a couple lines of configuration, others will need you to write some custom code.
 
-## How does a step actually run?
+## How it works
+
+All pipeline steps are executed in the cloud on Stemn's automation pipeline servers. Each step actually spins up a Virtual Machine which runs some code along with any command you define in your step configuration. We provide several different VM 'images' that can be used to do common tasks with just 1 or 2 lines of configuration. You can also deploy your own [custom code](step-images/custom-steps.md) as a docker image and run that as part of your pipeline. We'll get into the details of this later on.
 
 ## How to define steps
 
@@ -39,7 +41,7 @@ steps:
   command: convert -i *.sldstl -o output/*.jpg
 - label: Generate changes.pdf
   inputFiles: *
-  image: custom-docker/custom-docker-image
+  image: some-custom-docker/a-custom-docker-image-goes-here
   command: generate report.pdf
 ```
 
@@ -58,7 +60,7 @@ Now, chances are you don't know what a docker image is. You can read about that 
 
 ## Browse Step Images
 
- There are 3 types of step images. If the task you want to achieve already has an image,
+There are 3 types of step images. Many simple tasks can be achieved using a Stemn or 3rd party image. Browse these first. If you can find what you are looking for, you learn about creating your own [custom step image](step-images/custom-steps.md) \(you'll need to write some code for this\).
 
 {% page-ref page="step-images/stemn-steps.md" %}
 
