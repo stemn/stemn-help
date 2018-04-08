@@ -27,7 +27,7 @@
     * [Pipline Steps](automation-pipelines/pipeline-configuration/pipline-steps/README.md)
       * Step Images
         * Stemn Step Images
-        * 3rd Party Step Images
+        * [3rd Party Step Images](automation-pipelines/pipeline-configuration/pipline-steps/step-images/3rd-party-steps.md)
         * Custom Step Images
   * Advanced Examples
 * Task Tracking
