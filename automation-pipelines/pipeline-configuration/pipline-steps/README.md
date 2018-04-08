@@ -48,9 +48,7 @@ More specifically, the supported options are:
 | label | A string describing the stage |
 | image | The name of a [public docker image](https://hub.docker.com) \(or path to a private image\) |
 | command \(optional\) | The command to run when the docker image boots |
-|  inputFiles \(optional\) | A wildcard selector for the files in your project you want to operate on |
+| inputFiles \(optional\) | A wildcard selector for the files in your project you want to operate on |
 
 Now, chances are you don't know what a docker image is. We'll get to that now.
-
-
 
