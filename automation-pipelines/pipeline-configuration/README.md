@@ -6,6 +6,10 @@ All of the configuration for your Automation Pipeline is contained within the `*
 
 {% page-ref page="pipeline-triggers.md" %}
 
+{% page-ref page="pipeline-stages.md" %}
+
+{% page-ref page="pipline-steps/" %}
+
 If you understand these 3 concepts, you're ready to write your first pipeline configuration. FYI, you can have multiple `.pipeline` files in your project and even multiple in a single folder. Just call them different things such as `render.pipeline` or `document.pipeline`
 
 {% hint style="info" %}
