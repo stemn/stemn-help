@@ -9,6 +9,10 @@ These are custom images created and open-sourced by members of the Stemn communi
 | [public-bloke/convert-doc](http://google.com/) | Converts docs to pdf | Converter |
 | [alpine](https://hub.docker.com/_/alpine/) | Minimal Linux image for running .sh scripts | OS |
 
+{% hint style="info" %}
+Click on the image names above to learn how to configure them with custom [commands](../../pipeline-step-command.md).
+{% endhint %}
+
 ## Other Images
 
 {% page-ref page="stemn-steps.md" %}
