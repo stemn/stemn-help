@@ -2,7 +2,11 @@
 
 ## Usage
 
-Commands can be entered as either an array of sequential commands or a single line. These commands will be executed as soon as the image has loaded. You should read about the configuration options for the image in order to find out which commands you can run.
+Commands can be entered as either an array of sequential commands or a single line. These commands will be executed as soon as the image has loaded. They can be used to either configure your image or to outline a series of sub-steps.
+
+{% hint style="info" %}
+Make sure you read about the commands your custom image accepts or expects.
+{% endhint %}
 
 For example:
 
@@ -33,7 +37,7 @@ stages:
 ```
 
 {% hint style="info" %}
-These 2 examples are using the [wernight/funbox](https://hub.docker.com/r/wernight/funbox/) image from docker hub. You can run these in your pipline and you should get some pretty ascii art in your pipeline's terminal output.
+These 2 examples are using the [wernight/funbox](https://hub.docker.com/r/wernight/funbox/) image from docker hub. You can run these in your pipline and you should get some pretty ascii art in your pipeline's terminal output. Note, these commands are documented on the docker hub page above.
 {% endhint %}
 
 You can use standard linux commands along with a linux image such as [alpine](https://hub.docker.com/_/alpine/):
