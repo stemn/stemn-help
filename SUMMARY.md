@@ -29,6 +29,7 @@
         * [3rd Party Images](automation-pipelines/configuration/steps/images/3rd-party.md)
         * [Custom Images](automation-pipelines/configuration/steps/images/custom.md)
     * [Command](automation-pipelines/configuration/commands.md)
+    * [Input Files](automation-pipelines/configuration/input-files.md)
   * [Example Pipelines](automation-pipelines/advanced-examples.md)
 * Task Tracking
 * Activity Feed
