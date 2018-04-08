@@ -52,3 +52,5 @@ stages:
     - '*.txt'
 ```
 
+{% page-ref page="../advanced-examples.md" %}
+
