@@ -2,11 +2,13 @@
 
 ## Wait... What do you mean 'image'?
 
-When we say 'image' we are referring to a [docker image](https://docs.docker.com/glossary/?term=image). Think of this a snapshot of an operating system with various programs installed and configured to run a specific task. Creating your own custom docker images can be a pretty technical task, thankfully, there are thousands of open-source images that allow you to complete most common tasks. 
+When we say 'image' we are referring to a [docker image](https://docs.docker.com/glossary/?term=image). Think of this a snapshot of an operating system with various programs installed and configured to run a specific task. There are thousands of free images available, typically for tasks that can be achieved with open-source operating systems or code.
 
 ## Step Images
 
-There are 3 types of step images. Most simple tasks can be achieved using a Stemn or 3rd party image from dockerhub. Browse these first. If you can't find what you are looking for, you should read about creating your own [custom step image](custom-steps.md) \(you'll need to write some code and learn more about docker images for this\).
+There are 3 types of step images. Most simple tasks can be achieved using an image provided by us or a 3rd party images from dockerhub. Browse these first. If you can't find what you are looking for, you should read about creating your own [custom step image](custom-steps.md) \(you'll need to write some code and learn more about docker images for this\).
+
+### Browse images:
 
 {% page-ref page="stemn-steps.md" %}
 
