@@ -2,7 +2,7 @@
 
 ## Usage
 
-Commands can be entered as either an array of sequential commands or a single line. 
+Commands can be entered as either an array of sequential commands or a single line. These commands will be executed as soon as the image has loaded. You should read about the configuration options for the image in order to find out which commands you can run.
 
 For example:
 
