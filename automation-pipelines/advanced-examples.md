@@ -82,3 +82,5 @@ stages:
     - '*.txt'
 ```
 
+## Run a script and send a notification to your Slack channel
+
