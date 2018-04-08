@@ -16,5 +16,7 @@ Remember, you can configure your custom images with [commands](../../commands.md
 
 ## Other images
 
+{% page-ref page="stemn.md" %}
+
 {% page-ref page="3rd-party.md" %}
 
