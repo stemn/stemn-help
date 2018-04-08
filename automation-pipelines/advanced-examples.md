@@ -82,5 +82,9 @@ stages:
     - '*.txt'
 ```
 
-## Run a script and send a notification to your Slack channel
+## Run a bash script that prints some ascii art
+
+
+
+## Send a notification to your slack channel
 
