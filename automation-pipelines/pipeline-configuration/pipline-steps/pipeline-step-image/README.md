@@ -2,7 +2,7 @@
 
 ## Wait... What do you mean 'image'?
 
-When we say 'image' we are referring to a [docker image](https://docs.docker.com/glossary/?term=image). Think of this a snapshot of an operating system with various programs installed and configured to run a specific task. 
+When we say 'image' we are referring to a [docker image](https://docs.docker.com/glossary/?term=image). Think of this a snapshot of an operating system with various programs installed and configured to run a specific task. Creating your own custom docker images can be a pretty technical task, thankfully, there are thousands of open-source images that allow you to complete most common tasks. 
 
 ## Step Images
 
