@@ -6,7 +6,7 @@ These are custom images created and open-sourced by members of the Stemn communi
 | --- | --- | --- | --- |
 | [public-bloke/convert-doc](http://google.com) | Converts docs to pdf | Converter |
 | [public-bloke/convert-doc](http://google.com/) | Converts docs to pdf | Converter |
-| [public-bloke/convert-doc](http://google.com/) | Converts docs to pdf |  Converter |
+| [public-bloke/convert-doc](http://google.com/) | Converts docs to pdf | Converter |
 
 
 

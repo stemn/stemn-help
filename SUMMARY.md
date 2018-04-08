@@ -26,7 +26,7 @@
     * [Pipeline Stages](automation-pipelines/pipeline-configuration/pipeline-stages.md)
     * [Pipline Steps](automation-pipelines/pipeline-configuration/pipline-steps/README.md)
       * Step Images
-        * Stemn Step Images
+        * [Stemn Step Images](automation-pipelines/pipeline-configuration/pipline-steps/step-images/stemn-steps.md)
         * [3rd Party Step Images](automation-pipelines/pipeline-configuration/pipline-steps/step-images/3rd-party-steps.md)
         * Custom Step Images
   * Advanced Examples
