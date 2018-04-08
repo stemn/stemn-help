@@ -1,4 +1,4 @@
-# Pipeline Triggers
+# Triggers
 
 ## How to use triggers
 

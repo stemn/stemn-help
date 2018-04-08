@@ -1,4 +1,4 @@
-# Stemn Step Images
+# Stemn Images
 
 Some helpful images we've prepared for you:
 

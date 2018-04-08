@@ -1,4 +1,4 @@
-# Pipeline Step Command
+# Command
 
 ## Usage
 

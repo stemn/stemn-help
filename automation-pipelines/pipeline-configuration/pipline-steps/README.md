@@ -1,4 +1,4 @@
-# Pipline Steps
+# Steps
 
 ## How to use steps
 

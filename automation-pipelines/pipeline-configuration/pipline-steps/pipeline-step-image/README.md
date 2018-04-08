@@ -1,4 +1,4 @@
-# Pipeline Step Image
+# Images
 
 ## Wait... What do you mean 'image'?
 

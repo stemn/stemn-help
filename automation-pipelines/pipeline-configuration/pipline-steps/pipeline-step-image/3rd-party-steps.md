@@ -1,4 +1,4 @@
-# 3rd Party Step Images
+# 3rd Party Images
 
 These are custom images created and open-sourced by members of the Stemn or Docker community. If you have created your own [custom image](custom-steps.md) and want to share it with others. Contact us and we'll list it here.
 

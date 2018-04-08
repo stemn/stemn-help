@@ -1,4 +1,4 @@
-# Pipeline Stages
+# Stages
 
 ## How to use stages
 

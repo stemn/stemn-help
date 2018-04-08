@@ -1,4 +1,4 @@
-# Custom Step Images
+# Custom Images
 
 ## When to create a custom image?
 
