@@ -25,10 +25,9 @@
     * [Pipeline Triggers](automation-pipelines/pipeline-configuration/pipeline-triggers.md)
     * [Pipeline Stages](automation-pipelines/pipeline-configuration/pipeline-stages.md)
     * [Pipline Steps](automation-pipelines/pipeline-configuration/pipline-steps/README.md)
-      * Step Images
-        * [Stemn Step Images](automation-pipelines/pipeline-configuration/pipline-steps/step-images/stemn-steps.md)
-        * [3rd Party Step Images](automation-pipelines/pipeline-configuration/pipline-steps/step-images/3rd-party-steps.md)
-        * [Custom Step Images](automation-pipelines/pipeline-configuration/pipline-steps/step-images/custom-steps.md)
+      * [Stemn Step Images](automation-pipelines/pipeline-configuration/pipline-steps/stemn-steps.md)
+      * [3rd Party Step Images](automation-pipelines/pipeline-configuration/pipline-steps/3rd-party-steps.md)
+      * [Custom Step Images](automation-pipelines/pipeline-configuration/pipline-steps/custom-steps.md)
   * [Example Pipelines](automation-pipelines/advanced-examples.md)
 * Task Tracking
 * Activity Feed

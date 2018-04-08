@@ -27,7 +27,7 @@ You can actually achieve almost anything in a step. Some of these will be just a
 
 ## How it works
 
-All pipeline steps are executed in the cloud on Stemn's automation pipeline servers. Each step actually spins up a Virtual Machine which runs some code along with any command you define in your step configuration. We provide several different VM 'images' that can be used to do common tasks with just 1 or 2 lines of configuration. You can also deploy your own [custom code](step-images/custom-steps.md) as a docker image and run that as part of your pipeline. We'll get into the details of this later on.
+All pipeline steps are executed in the cloud on Stemn's automation pipeline servers. Each step actually spins up a Virtual Machine which runs some code along with any command you define in your step configuration. We provide several different VM 'images' that can be used to do common tasks with just 1 or 2 lines of configuration. You can also deploy your own [custom code](custom-steps.md) as a docker image and run that as part of your pipeline. We'll get into the details of this later on.
 
 ## How to define steps
 
@@ -50,23 +50,21 @@ More specifically, the supported options are:
 | **Key** | **Description** |
 | --- | --- | --- | --- | --- |
 | label | A string describing the stage |
-| image | The name of a [public docker image](https://hub.docker.com) \(or path to a private image\) |
+| image | The name of step image \(or path to a private image\) |
 | command \(optional\) | The command to run when the docker image boots |
 | inputFiles \(optional\) | A wildcard selector for the files in your project you want to operate on |
 
 Now, chances are you don't know what a docker image is. You can read about that here:
 
-{% page-ref page="step-images/" %}
+## Step Images
 
-## Browse Step Images
+There are 3 types of step images. Many simple tasks can be achieved using a Stemn or 3rd party image. Browse these first. If you can't find what you are looking for, you should read about creating your own [custom step image](custom-steps.md) \(you'll need to write some code for this\).
 
-There are 3 types of step images. Many simple tasks can be achieved using a Stemn or 3rd party image. Browse these first. If you can find what you are looking for, you learn about creating your own [custom step image](step-images/custom-steps.md) \(you'll need to write some code for this\).
+{% page-ref page="stemn-steps.md" %}
 
-{% page-ref page="step-images/stemn-steps.md" %}
+{% page-ref page="3rd-party-steps.md" %}
 
-{% page-ref page="step-images/3rd-party-steps.md" %}
-
-{% page-ref page="step-images/custom-steps.md" %}
+{% page-ref page="custom-steps.md" %}
 
 
 
