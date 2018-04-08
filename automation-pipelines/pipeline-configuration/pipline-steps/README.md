@@ -25,6 +25,8 @@ Or even more complicated things such as:
 
  You can actually achieve almost anything in a step. Some of these will be just a couple lines of configuration, others will need you to write some custom code.
 
+## How does a step actually run?
+
 ## How to define steps
 
 Each step should contains a `label`, `image`and optionally a `command` and/or `inputFiles`. For example, to create the steps in **Stage 2** of the above example: 
@@ -50,5 +52,19 @@ More specifically, the supported options are:
 | command \(optional\) | The command to run when the docker image boots |
 | inputFiles \(optional\) | A wildcard selector for the files in your project you want to operate on |
 
-Now, chances are you don't know what a docker image is. We'll get to that now.
+Now, chances are you don't know what a docker image is. You can read about that here:
+
+{% page-ref page="step-images/" %}
+
+## Browse Step Images
+
+ There are 3 types of step images. If the task you want to achieve already has an image,
+
+{% page-ref page="step-images/stemn-steps.md" %}
+
+{% page-ref page="step-images/3rd-party-steps.md" %}
+
+{% page-ref page="step-images/custom-steps.md" %}
+
+
 
