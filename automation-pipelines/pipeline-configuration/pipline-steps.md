@@ -2,7 +2,7 @@
 
 ## How to use steps
 
-a
+ This is where the real meat \(or tofu\) of your Pipeline starts.
 
 ## How to define steps
 
