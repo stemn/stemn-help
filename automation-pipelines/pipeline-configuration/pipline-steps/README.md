@@ -51,7 +51,7 @@ More specifically, the supported options are:
 | --- | --- | --- | --- | --- |
 | label | A string describing the stage |
 | image | The name of or url to a [step image](./#step-images) |
-| command \(optional\) | The command to run in the terminal after the image boots |
+| command \(optional\) | The [command to run](./#step-commands) in the terminal after the image boots |
 | inputFiles \(optional\) | A wildcard selector for the files in your project you want to operate on |
 
 Now, chances are you don't know what a docker image is. You can read about that here:
@@ -66,5 +66,7 @@ There are 3 types of step images. Many simple tasks can be achieved using a Stem
 
 {% page-ref page="custom-steps.md" %}
 
+## Step Commands
 
+Anything you put here will 
 
