@@ -2,7 +2,7 @@
 
 ## What is an Automation Pipeline?
 
-A pipeline is a series of tasks that run in the cloud on Stemn's pipeline servers. You can configure a pipeline to do pretty much anything. For example:
+A pipeline is a series of tasks that run in the cloud on Stemn's servers. You can configure a pipeline to do pretty much anything. For example:
 
 * Convert a file from one format to another
 * Render a CAD model and save the output images
