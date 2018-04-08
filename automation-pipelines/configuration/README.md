@@ -2,7 +2,7 @@
 
 ## Meet the `*.pipeline` file
 
-All of the configuration for your Automation Pipeline is contained within a `*.pipeline` file which is stored along side your other project files. There are 3 main concepts you need to understand before you can get going with your first `.pipeline` file.
+All of the configuration for your Automation Pipeline is contained within a `*.pipeline` file which is stored along side your other project files. There are 3 main concepts you need to understand before you can get going with your first `.pipeline` file:
 
 {% page-ref page="triggers.md" %}
 
