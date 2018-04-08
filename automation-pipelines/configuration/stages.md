@@ -1,4 +1,4 @@
-# Stages
+# Pipeline Stages
 
 ## How to use stages
 
@@ -40,8 +40,4 @@ More specifically, the supported options are:
 {% hint style="info" %}
 The full schema with all possibilities is available at [schemas.stemn.com/pipline/stages+v1](http://schemas.stemn.com/pipeline/stages+v1)
 {% endhint %}
-
-## Examples
-
-a
 
