@@ -50,7 +50,7 @@ More specifically, the supported options are:
 | **Key** | **Description** |
 | --- | --- | --- | --- | --- |
 | label | A string describing the stage. |
-| image | The name of or url to a step image. [Learn more.](pipeline-step-image/stemn-steps.md) |
+| image | The name of or url to a step image. [Learn more.](pipeline-step-image/) |
 | command \(optional\) | The command to run in the terminal after the image boots. [Learn more.](../pipeline-step-command.md) |
 | inputFiles \(optional\) | A wildcard selector for the files in your project you want to operate on. |
 
