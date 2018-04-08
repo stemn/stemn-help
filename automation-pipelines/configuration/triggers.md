@@ -29,7 +29,7 @@ More specifically, the supported options are:
 
 | **Key** | **Description** |
 | --- | --- | --- |
-| files | File selector. Use `./` for relative. Full [glob matching](https://github.com/isaacs/minimatch) support. Let the internet be your guide |
+| files | File selector. Use `./` for relative. Full [glob matching](https://github.com/isaacs/minimatch) support. |
 | type | Event type. eg\) `commit `or `revision` |
 
 {% hint style="info" %}
