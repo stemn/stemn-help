@@ -54,7 +54,11 @@ More specifically, the supported options are:
 | command \(optional\) | The command to run in the terminal after the image boots. [Learn more.](../pipeline-step-command.md) |
 | inputFiles \(optional\) | A wildcard selector for the files in your project you want to operate on. |
 
-Now, chances are you don't know what a docker image is.
+## Further Reading
+
+{% page-ref page="pipeline-step-image/" %}
+
+{% page-ref page="../pipeline-step-command.md" %}
 
 
 
