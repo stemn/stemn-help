@@ -5,13 +5,14 @@ These are custom images created and open-sourced by members of the Stemn or Dock
 In addition to the images below, there are thousands of other images list on [Docker Hub](https://hub.docker.com/). 
 
 | **Name** | **Description** | **Classification** |
-| --- | --- | --- | --- | --- | --- | --- |
+| --- | --- | --- | --- | --- | --- | --- | --- |
 | [public-bloke/convert-doc](http://google.com) | Converts docs to pdf | Converter |
 | [public-bloke/convert-doc](http://google.com/) | Converts docs to pdf | Converter |
 | [public-bloke/convert-doc](http://google.com/) | Converts docs to pdf | Converter |
 | [alpine](https://hub.docker.com/_/alpine/) | Minimal Linux image for running .sh scripts | OS |
 | [python](https://hub.docker.com/_/python/) | Python  | Lang |
 | [node](https://hub.docker.com/_/node/) | Node | Lang |
+| Browse [dockerhub](https://hub.docker.com/) |  |  |
 
 {% hint style="info" %}
 Click on the image names above to learn how to configure them with custom [commands](../../commands.md).
