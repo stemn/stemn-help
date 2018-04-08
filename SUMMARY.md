@@ -29,7 +29,7 @@
         * [Stemn Step Images](automation-pipelines/pipeline-configuration/pipline-steps/pipeline-step-image/stemn-steps.md)
         * [3rd Party Step Images](automation-pipelines/pipeline-configuration/pipline-steps/pipeline-step-image/3rd-party-steps.md)
         * [Custom Step Images](automation-pipelines/pipeline-configuration/pipline-steps/pipeline-step-image/custom-steps.md)
-    * Pipeline Step Command
+    * [Pipeline Step Command](automation-pipelines/pipeline-configuration/pipeline-step-command.md)
   * [Example Pipelines](automation-pipelines/advanced-examples.md)
 * Task Tracking
 * Activity Feed
