@@ -1,8 +1,14 @@
 # Custom Step Images
 
-## a
+## When to create a custom image
 
-aa
+
+
+## What is an image?
+
+
+
+## How to create a custom image
 
 {% hint style="info" %}
 Remember, you can configure your custom images with [commands](../../pipeline-step-command.md). Keep that in mind when created your own image.

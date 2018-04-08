@@ -1,6 +1,6 @@
 # 3rd Party Step Images
 
-These are custom images created and open-sourced by members of the Stemn community. If you have created your own [custom image](custom-steps.md) and want to share it with others. Contact us and we'll list it here.
+These are custom images created and open-sourced by members of the Stemn or Docker community. If you have created your own [custom image](custom-steps.md) and want to share it with others. Contact us and we'll list it here.
 
 | **Name** | **Description** | **Classification** |
 | --- | --- | --- | --- | --- |
@@ -11,6 +11,10 @@ These are custom images created and open-sourced by members of the Stemn communi
 
 {% hint style="info" %}
 Click on the image names above to learn how to configure them with custom [commands](../../pipeline-step-command.md).
+{% endhint %}
+
+{% hint style="danger" %}
+When using 3rd party images, you are ultimately running someone else's code against your files. Keep in mind the privacy of security implications of this.
 {% endhint %}
 
 ## Other Images
