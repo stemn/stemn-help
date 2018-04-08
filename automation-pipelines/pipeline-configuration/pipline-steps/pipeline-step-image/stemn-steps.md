@@ -1,6 +1,6 @@
 # Stemn Step Images
 
-a
+
 
 | **Name** | **Description** | **Classification** |
 | --- | --- | --- | --- |
