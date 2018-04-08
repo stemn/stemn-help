@@ -8,15 +8,7 @@ Keep in mind, if you just want to execute a few simple scripts, you can use a ba
 
 ## How to create a custom image
 
-Things are gonna get pretty technical here. In order to create an image you'll need to get pretty familiar with exactly what an image is.
-
-TODO
-
-
-
-
-
-
+Things are gonna get pretty technical here. In order to create an image you'll need to get pretty familiar with exactly what an image is. 
 
 {% hint style="info" %}
 Remember, you can configure your custom images with [commands](../../commands.md). Keep that in mind when created your own image.
