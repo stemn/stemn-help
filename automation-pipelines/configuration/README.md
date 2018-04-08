@@ -18,47 +18,5 @@ If you understand these 3 concepts, you're ready to write your first pipeline co
 
 ## Example Pipeline Configuration
 
-For example. Add the following configuration to your project and save to a file called `stemn.pipeline`
-
-{% code-tabs %}
-{% code-tabs-item title="stemn.pipeline" %}
-```yaml
-$schema: https://schemas.stemn.com/pipeline+v1
-
-label: Matches a file to each trigger type
-
-triggers:
-- files: revision.txt
-  type: revision
-- files: commit.txt
-  type: commit
-- files: release.txt
-  type: release
-
-stages:
-- label: write trigger type to trigger file
-  steps:
-  - label: write
-    image: alpine
-    command: ['/bin/sh', '-c', 'printf $STEMN_PIPELINE_EVENT > /pipeline/$STEMN_PIPELINE_EVENT.txt']
-- label: check output
-  steps:
-  - label: cat
-    image: alpine
-    command: 
-      - env
-  - label: print some pretty things
-    image: wernight/funbox
-    command: ['sh -c "figlet funbox | boxes | toilet --gay -f term"']
-- label: upload
-  steps:
-  - label: stemn
-    image: stemn/upload:latest
-    inputFiles:
-    - '*.txt'
-```
-{% endcode-tabs-item %}
-{% endcode-tabs %}
-
 {% page-ref page="../advanced-examples.md" %}
 
