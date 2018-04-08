@@ -50,8 +50,8 @@ More specifically, the supported options are:
 | **Key** | **Description** |
 | --- | --- | --- | --- | --- |
 | label | A string describing the stage |
-| image | The name of step image **Learn more below** |
-| command \(optional\) | The command to run when the docker image boots |
+| image | The name of or url to a [step image](./#step-images) |
+| command \(optional\) | The command to run in the terminal after the image boots |
 | inputFiles \(optional\) | A wildcard selector for the files in your project you want to operate on |
 
 Now, chances are you don't know what a docker image is. You can read about that here:
