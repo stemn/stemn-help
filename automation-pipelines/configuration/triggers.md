@@ -13,9 +13,11 @@ The triggers section contains a list of `file` and `type` triggers. For example:
 ```yaml
 ...
 triggers:
-- files: *.stl
+- files: ./*.stl # Any stl files in the folder (relative the the .pipeline file)
   type: revision
-- files: documentation.txt
+- files: documentation.txt # Relative to the root of the project
+  type: commit
+- files: ** # Every file in the project
   type: commit
 ...
 ```
