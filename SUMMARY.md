@@ -13,7 +13,7 @@
 * Files
   * [Revisions](untitled/file-revisions-and-commits.md)
   * [Commits](untitled/commits.md)
-  * [Previews & Compare](untitled/file-previews/README.md)
+  * [Preview & Compare](untitled/file-previews/README.md)
     * [Cad](untitled/file-previews/cad.md)
     * Code
     * PCB + Gerber

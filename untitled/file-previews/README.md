@@ -1,4 +1,4 @@
-# Previews & Compare
+# Preview & Compare
 
 ## Previews
 
