@@ -2,11 +2,11 @@
 
 ## What is a Revision?
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nullam venenatis justo magna, sit amet ultrices risus viverra in. In aliquet ligula ipsum, nec facilisis enim commodo eu. Ut malesuada malesuada ex. Etiam ut feugiat urna. Praesent id turpis nec felis viverra feugiat. Aliquam erat volutpat. Vivamus quis lacus mollis, commodo ante eu, semper purus. Vivamus eu elementum metus, vel suscipit augue. Praesent venenatis tincidunt augue, a tristique erat ultricies sed. In et placerat mauris. Nunc in sapien in tellus maximus pretium. Maecenas lacinia feugiat placerat
+A revision is simply a previous version of a file. Every time a file sync to Stemn through your Dropbox or Google drive, we save a version if it on our secure servers. This means you'll have a full history of every change you and your team have made to your project files.
 
 ![](../.gitbook/assets/historycombined%20%282%29.jpg)
 
-## How are they created?
+## How to access revisions
 
-a
+You can access the file revisions from both the [stemn.com](http://stemn.com) website and the desktop application.
 
