@@ -13,11 +13,13 @@
 * Files
   * [Revisions](untitled/file-revisions-and-commits.md)
   * [Commits](untitled/commits.md)
-  * Previews
+  * [Previews](untitled/file-previews/README.md)
     * [Cad](untitled/file-previews/cad.md)
     * Code
+    * PCB + Gerber
     * Images
     * Documents
+    * Misc
   * [Cloud Providers](untitled/cloud-providers.md)
 * [Automation Pipelines](automation-pipelines/README.md)
   * [Pipeline configuration](automation-pipelines/configuration/README.md)
