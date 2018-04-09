@@ -34,6 +34,6 @@
 * Task Tracking
 * Activity Feed
 * Exploring Projects
-* Manage Account
 * Stemn Desktop
+* Manage Account
 
