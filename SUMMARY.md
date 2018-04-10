@@ -10,7 +10,7 @@
   * The Stemn Workflow
   * Create a Pipeline
   * Be Social
-* Files
+* [Files](untitled/README.md)
   * [Revisions](untitled/file-revisions-and-commits.md)
   * [Commits](untitled/commits.md)
   * [Preview & Compare](untitled/file-previews/README.md)
