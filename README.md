@@ -14,7 +14,7 @@ We also have a free desktop app. Get started by [downloading it here.](https://s
 
 ## Not so new?
 
-We know, there are quite a lot of features and it's not always obvious what they do or how to use them to their full potential. Hopefully you find what you're looking for.
+We know, there are quite a lot of features and it's not always obvious what they do or how to use them to their full potential. Hopefully you find what you're looking for here.
 
 {% page-ref page="untitled/" %}
 
