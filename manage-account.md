@@ -1,4 +1,0 @@
-# Manage Account
-
-Coming soon...
-

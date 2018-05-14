@@ -10,7 +10,7 @@ Commits are one of the most critical parts of effective teamwork using stemn. A 
 
 ## How are they created?
 
-To create a commit, you must have [stemn desktop](../stemn-desktop.md) installed and configured. You'll also need Dropbox or Google drive installed so your file revisions sync correctly. After that, you have 2 different methods. These instructions vary slightly with operating system.
+To create a commit, you must have [stemn desktop]() installed and configured. You'll also need Dropbox or Google drive installed so your file revisions sync correctly. After that, you have 2 different methods. These instructions vary slightly with operating system.
 
 ### From the taskbar:
 

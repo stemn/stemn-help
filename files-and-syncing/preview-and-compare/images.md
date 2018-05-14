@@ -1,4 +1,0 @@
-# Images
-
-Coming soon...
-

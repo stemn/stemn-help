@@ -1,4 +1,0 @@
-# Stemn Desktop
-
-Coming soon...
-

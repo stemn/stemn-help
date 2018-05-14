@@ -1,4 +1,0 @@
-# Open Source
-
-Coming soon...
-

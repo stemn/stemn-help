@@ -4,8 +4,6 @@
 
 Not quite sure what Stemn does or how to use it? Check out the introduction and bootcamp to get up to speed.
 
-{% page-ref page="intro-to-stemn/" %}
-
 {% hint style="info" %}
 We also have a free desktop app. Get started by [downloading it here.](https://stemn.com/download)
 {% endhint %}

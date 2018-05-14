@@ -8,7 +8,7 @@ A revision is simply a **previous version of a file**. Every time a file sync to
 
 ## How to access revisions
 
-You can access the file revisions from both the [stemn.com](http://stemn.com) website and [stemn desktop](../stemn-desktop.md).
+You can access the file revisions from both the [stemn.com](http://stemn.com) website and [stemn desktop]().
 
 1. Login to your account
 2. Navigate to your project

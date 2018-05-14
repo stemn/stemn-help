@@ -1,4 +1,0 @@
-# Be Social
-
-Coming soon...
-
