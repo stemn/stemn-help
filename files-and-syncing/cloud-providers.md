@@ -11,5 +11,3 @@ Stemn does not actually do any file syncing for you. All your files must be sync
 
 Check out the Stemn Bootcamp 'Initial Setup' guide for more info:
 
-{% page-ref page="../bootcamp/initial-setup.md" %}
-

@@ -6,23 +6,13 @@ Both the [stemn.com](https://stemn.com) website and [stemn desktop](../../stemn-
 
 ## Compare
 
-Along with previewing a file, you can compare different file [revisions ](../file-revisions-and-commits.md)to see how they have changed. The supported compare modes vary with the file type you are previewing.
+Along with previewing a file, you can compare different file [revisions ](../revisions.md)to see how they have changed. The supported compare modes vary with the file type you are previewing.
 
 ![](../../.gitbook/assets/compare.gif)
 
 ## Supported file previewers:
 
 {% page-ref page="cad.md" %}
-
-{% page-ref page="code.md" %}
-
-{% page-ref page="images.md" %}
-
-{% page-ref page="documents.md" %}
-
-{% page-ref page="misc.md" %}
-
-{% page-ref page="pcb-+-gerber.md" %}
 
 
 

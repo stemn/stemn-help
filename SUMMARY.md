@@ -2,40 +2,40 @@
 
 * [Stemn Help Center](README.md)
 * [Intro to Stemn](intro-to-stemn/README.md)
-  * Overview
-  * Open Source
-  * Pricing
+  * [Overview](intro-to-stemn/overview.md)
+  * [Open Source](intro-to-stemn/open-source.md)
+  * [Pricing](intro-to-stemn/pricing.md)
 * Stemn Bootcamp
-  * Initial Setup
-  * The Stemn Workflow
-  * Create a Pipeline
-  * Be Social
-* [Files and Syncing](untitled/README.md)
-  * [Revisions](untitled/file-revisions-and-commits.md)
-  * [Commits](untitled/commits.md)
-  * [Preview & Compare](untitled/file-previews/README.md)
-    * [Cad](untitled/file-previews/cad.md)
-    * Code
-    * PCB + Gerber
-    * Images
-    * Documents
-    * Misc
-  * [Cloud Providers](untitled/cloud-providers.md)
+  * [Initial Setup](stemn-bootcamp/initial-setup.md)
+  * [The Stemn Workflow](stemn-bootcamp/the-stemn-workflow.md)
+  * [Create a Pipeline](stemn-bootcamp/create-a-pipeline.md)
+  * [Be Social](stemn-bootcamp/be-social.md)
+* [Files and Syncing](files-and-syncing/README.md)
+  * [Revisions](files-and-syncing/revisions.md)
+  * [Commits](files-and-syncing/commits.md)
+  * [Preview & Compare](files-and-syncing/preview-and-compare/README.md)
+    * [Cad](files-and-syncing/preview-and-compare/cad.md)
+    * [Code](files-and-syncing/preview-and-compare/code.md)
+    * [PCB + Gerber](files-and-syncing/preview-and-compare/pcb-+-gerber.md)
+    * [Images](files-and-syncing/preview-and-compare/images.md)
+    * [Documents](files-and-syncing/preview-and-compare/documents.md)
+    * [Misc](files-and-syncing/preview-and-compare/misc.md)
+  * [Cloud Providers](files-and-syncing/cloud-providers.md)
 * [Automation Pipelines](automation-pipelines/README.md)
-  * [Pipeline configuration](automation-pipelines/configuration/README.md)
-    * [Pipeline Triggers](automation-pipelines/configuration/triggers.md)
-    * [Pipeline Stages](automation-pipelines/configuration/stages.md)
-    * [Pipeline Steps](automation-pipelines/configuration/steps/README.md)
-      * [Image](automation-pipelines/configuration/steps/images/README.md)
-        * [Stemn Images](automation-pipelines/configuration/steps/images/stemn.md)
-        * [3rd Party Images](automation-pipelines/configuration/steps/images/3rd-party.md)
-        * [Custom Images](automation-pipelines/configuration/steps/images/custom.md)
-    * [Command](automation-pipelines/configuration/commands.md)
-    * [Input Files](automation-pipelines/configuration/input-files.md)
-  * [Example Pipelines](automation-pipelines/advanced-examples.md)
-* Task Tracking
-* Activity Feed
-* Exploring Projects
-* Stemn Desktop
-* Manage Account
+  * [Pipeline configuration](automation-pipelines/pipeline-configuration/README.md)
+    * [Pipeline Triggers](automation-pipelines/pipeline-configuration/pipeline-triggers.md)
+    * [Pipeline Stages](automation-pipelines/pipeline-configuration/pipeline-stages.md)
+    * [Pipeline Steps](automation-pipelines/pipeline-configuration/pipeline-steps/README.md)
+      * [Image](automation-pipelines/pipeline-configuration/pipeline-steps/image/README.md)
+        * [Stemn Images](automation-pipelines/pipeline-configuration/pipeline-steps/image/stemn-images.md)
+        * [3rd Party Images](automation-pipelines/pipeline-configuration/pipeline-steps/image/3rd-party-images.md)
+        * [Custom Images](automation-pipelines/pipeline-configuration/pipeline-steps/image/custom-images.md)
+    * [Command](automation-pipelines/pipeline-configuration/command.md)
+    * [Input Files](automation-pipelines/pipeline-configuration/input-files.md)
+  * [Example Pipelines](automation-pipelines/example-pipelines.md)
+* [Task Tracking](task-tracking.md)
+* [Activity Feed](activity-feed.md)
+* [Exploring Projects](exploring-projects.md)
+* [Stemn Desktop](stemn-desktop.md)
+* [Manage Account](manage-account.md)
 
