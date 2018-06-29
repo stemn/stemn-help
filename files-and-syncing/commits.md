@@ -2,7 +2,7 @@
 
 ## What is a Commit?
 
-A commit is best thought of as a **group of file **[**revisions**](revisions.md) along with a **summary **and **description **describing what changes you have made and how. Importantly, when you create a commit, you can also **link related or completed threads**. This allows you and your team members to see which files changed in order to implement a task \(and also compare the file before and after the changes\).
+A commit is best thought of as a **group of file** [**revisions**](revisions.md) along with a **summary** and **description** describing what changes you have made and how. Importantly, when you create a commit, you can also **link related or completed threads**. This allows you and your team members to see which files changed in order to implement a task \(and also compare the file before and after the changes\).
 
 {% hint style="info" %}
 Commits are one of the most critical parts of effective teamwork using stemn. A thoughtful commit **summary** and **description** will help your entire team keep track of progress.

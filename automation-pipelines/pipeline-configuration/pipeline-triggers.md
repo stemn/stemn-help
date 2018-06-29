@@ -22,7 +22,7 @@ triggers:
 
 This config contains 2 triggers. The pipeline will run if either of the 2 conditions are met:
 
-* There is a revision to any `stl `file in the same folder as the `.pipeline` file
+* There is a revision to any `stl` file in the same folder as the `.pipeline` file
 * There is a commit to the `documentation.txt` file \(in the root of the project folder\)
 
 More specifically, the supported options are:
@@ -30,7 +30,7 @@ More specifically, the supported options are:
 | **Key** | **Description** |
 | --- | --- | --- |
 | files | File selector. Use `./` for relative. Full [glob matching](https://github.com/isaacs/minimatch) support. |
-| type | Event type. eg\) `commit `or `revision` |
+| type | Event type. eg\) `commit` or `revision` |
 
 {% hint style="info" %}
 The full schema with all possibilities is available at [schemas.stemn.com/pipline/triggers+v1](http://schemas.stemn.com/pipeline/triggers+v1)

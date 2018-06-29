@@ -5,7 +5,7 @@
   * [Overview](intro-to-stemn/overview.md)
   * [Open Source](intro-to-stemn/open-source.md)
   * [Pricing](intro-to-stemn/pricing.md)
-* Stemn Bootcamp
+* [Stemn Bootcamp](stemn-bootcamp/README.md)
   * [Initial Setup](stemn-bootcamp/initial-setup.md)
   * [The Stemn Workflow](stemn-bootcamp/the-stemn-workflow.md)
   * [Create a Pipeline](stemn-bootcamp/create-a-pipeline.md)
