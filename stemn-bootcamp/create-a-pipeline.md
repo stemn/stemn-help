@@ -27,7 +27,7 @@ stages:
   steps:
   - label: Send email
     image: stemn/email
-    config: 
+    params: 
       to: enteryouremail@here.com // Put your email here
       subject: New commit to file called 'test.txt'
       message: This is the email body
