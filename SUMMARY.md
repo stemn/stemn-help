@@ -8,7 +8,6 @@
   * [Initial Setup](stemn-bootcamp/initial-setup.md)
   * [The Stemn Workflow](stemn-bootcamp/the-stemn-workflow.md)
   * [Create a Pipeline](stemn-bootcamp/create-a-pipeline.md)
-  * [Be Social](stemn-bootcamp/be-social.md)
 * [Files and Syncing](files-and-syncing/README.md)
   * [Revisions](files-and-syncing/revisions.md)
   * [Commits](files-and-syncing/commits.md)

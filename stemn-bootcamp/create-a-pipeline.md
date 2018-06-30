@@ -1,4 +1,4 @@
 # Create a Pipeline
 
-Coming soon...
+Pipelines allow you to 
 
