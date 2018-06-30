@@ -19,7 +19,16 @@ This guide will help you setup your first project and get it syncing to stemn. I
 Now that you have a stemn project, you can add commit messages to document what changes you have made to your files.
 
 * Download and install [Stemn Desktop](../stemn-desktop.md) - you'll need to login to your account after it has installed.
-* Commit 
+* Make sure you have either the Dropbox or Drive client installed
+* Create your first commit:
+
+### From the taskbar:
+
+![](../.gitbook/assets/commit.gif)
+
+### From the 'changes' tab of the desktop app:
+
+![](../.gitbook/assets/commit-desktop.gif)
 
 
 
