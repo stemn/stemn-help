@@ -33,5 +33,6 @@
   * [Example Pipelines](automation-pipelines/example-pipelines.md)
 * [Task Tracking](task-tracking.md)
 * [Stemn Desktop](stemn-desktop.md)
-* [API](api.md)
+* [API](api/README.md)
+  * [Search](api/search.md)
 
