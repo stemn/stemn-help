@@ -3,7 +3,7 @@
 * [Stemn Help Center](README.md)
 * [Intro to Stemn](intro-to-stemn/README.md)
   * [Open Source](intro-to-stemn/open-source.md)
-  * [Pricing](intro-to-stemn/pricing.md)
+  * [Pricing](https://stemn.com/pricing)
 * [Stemn Bootcamp](stemn-bootcamp/README.md)
   * [Initial Setup](stemn-bootcamp/initial-setup.md)
   * [The Stemn Workflow](stemn-bootcamp/the-stemn-workflow.md)
