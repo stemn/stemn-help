@@ -33,8 +33,5 @@
     * [Input Files](automation-pipelines/pipeline-configuration/input-files.md)
   * [Example Pipelines](automation-pipelines/example-pipelines.md)
 * [Task Tracking](task-tracking.md)
-* [Activity Feed](activity-feed.md)
-* [Exploring Projects](exploring-projects.md)
 * [Stemn Desktop](stemn-desktop.md)
-* [Manage Account](manage-account.md)
 
